@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBS02C03Factura", "VBS02C03Factura\VBS02C03Factura.vbproj", "{590A3DDB-CC0C-46B4-A1C1-4C6AE6B1D859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590A3DDB-CC0C-46B4-A1C1-4C6AE6B1D859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590A3DDB-CC0C-46B4-A1C1-4C6AE6B1D859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590A3DDB-CC0C-46B4-A1C1-4C6AE6B1D859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590A3DDB-CC0C-46B4-A1C1-4C6AE6B1D859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014AD19D-5016-41F3-89EF-55D9481E7B4D}
+	EndGlobalSection
+EndGlobal
